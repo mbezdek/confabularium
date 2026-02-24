@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONFABULARIUM</title>
+    <meta name="description" content="Experiments in writing with AI.">
+
+    <!-- Elegant, book-like Typography Links -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Noto+Serif+JP:wght@400;600;700;900&family=UnifrakturMaguntia&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Markdown Parser & Extensions -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked-footnote/dist/index.umd.min.js"></script>
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="nav-content">
+            <a href="#" class="logo">CONFABULARIUM</a>
+            <div class="nav-links">
+                <a href="#stories">Stories</a>
+                <a href="#about">About</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <header class="hero">
+            <img src="images/title_confabularium.png" alt="CONFABULARIUM" class="hero-title-img">
+            <p class="subtitle">Experiments in writing with AI.</p>
+        </header>
+
+        <section id="stories" class="stories-grid">
+            <!-- Story cards will be rendered here dynamically -->
+        </section>
+
+        <!-- Elegant About Section -->
+        <section id="about" class="about-section">
+            <div class="about-content">
+                <h2>The Confabularium</h2>
+                <div class="about-text">
+                    <p>Welcome to a space where human creativity intertwines with artificial intelligence. The
+                        Confabularium is an ongoing experiment in collaborative storytelling, exploring how machine
+                        models can augment, challenge, and inspire the human imagination.</p>
+                    <p>Each piece collected here is a delicate dance between organic thought and algorithmic
+                        generation—a synthesis aimed not at replacing the author, but at discovering entirely new
+                        narrative possibilities.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Reading Modal Overlay -->
+    <div id="story-modal" class="modal-overlay">
+        <div class="modal-content">
+            <div id="modal-body" class="markdown-body">
+                <!-- Markdown content rendered here -->
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>Confabularium &copy; <span id="year"></span>. Created with Human + AI.</p>
+    </footer>
+
+    <script>
+        document.getElementById('year').textContent = new Date().getFullYear();
+
+        const storiesGrid = document.getElementById('stories');
+        const modal = document.getElementById('story-modal');
+        const modalBody = document.getElementById('modal-body');
+
+        // Close modal handlers
+        const closeModal = () => {
+            modal.classList.remove('active');
+            document.body.style.overflow = ''; // Restore scrolling
+        };
+
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) closeModal();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
+        });
+
+        // Simple fade entry for cards instead of aggressive slide/glow
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, { threshold: 0.1 });
+
+        async function loadStories() {
+            try {
+                const response = await fetch('stories/stories.json');
+                if (!response.ok) throw new Error('Failed to load stories index.');
+                const stories = await response.json();
+
+                storiesGrid.innerHTML = ''; // Clear loading state
+
+                stories.forEach((story, index) => {
+                    const article = document.createElement('article');
+                    article.className = 'story-card';
+
+                    article.innerHTML = `
+                        <div class="card-content">
+                            <span class="story-tag">${story.tag}</span>
+                            <h2 class="story-title">${story.title}</h2>
+                            <p class="story-excerpt">${story.excerpt}</p>
+                            <button class="read-more" data-file="${story.file}">Read</button>
+                        </div>
+                    `;
+
+                    const btn = article.querySelector('.read-more');
+                    btn.addEventListener('click', () => openStory('stories/' + story.file));
+
+                    storiesGrid.appendChild(article);
+
+                    // Setup fade animation
+                    article.style.opacity = '0';
+                    article.style.transform = 'translateY(10px)';
+                    observer.observe(article);
+                });
+            } catch (error) {
+                storiesGrid.innerHTML = `<p class="error-msg">Could not load stories. Are you running a local server?</p>`;
+                console.error(error);
+            }
+        }
+
+        async function openStory(filePath) {
+            try {
+                // Show loading state
+                modalBody.innerHTML = '<div class="loading">Opening...</div>';
+                modal.classList.add('active');
+                document.body.style.overflow = 'hidden'; // Prevent background scrolling
+
+                // Scroll the modal to top when opening a new story
+                modal.querySelector('.modal-content').scrollTop = 0;
+
+                const response = await fetch(filePath);
+                if (!response.ok) throw new Error(`Failed to load ${filePath}`);
+                const markdownText = await response.text();
+
+                // Parse markdown to HTML using marked.js with footnote extension
+                marked.use(markedFootnote());
+                modalBody.innerHTML = marked.parse(markdownText);
+
+                // Add dynamic drop cap image based on first letter
+                const firstParagraph = modalBody.querySelector('p');
+                if (firstParagraph) {
+                    // Find the first text node with content
+                    const firstNode = Array.from(firstParagraph.childNodes).find(n => n.nodeType === 3 && n.textContent.trim().length > 0);
+                    if (firstNode) {
+                        const text = firstNode.textContent;
+                        const match = text.match(/^\s*([A-Za-z])/);
+                        if (match) {
+                            const firstChar = match[1].toLowerCase();
+                            // If we have an image for this letter
+                            if (['i', 't', 'n'].includes(firstChar)) {
+                                // Strip the first letter from the text node
+                                firstNode.textContent = text.replace(/^\s*[A-Za-z]/, '');
+
+                                // Create the drop cap image element
+                                const img = document.createElement('img');
+                                img.src = `images/drop_cap_${firstChar}.png`;
+                                img.className = 'drop-cap-img';
+                                img.alt = firstChar.toUpperCase();
+
+                                // Insert it at the beginning of the paragraph
+                                firstParagraph.insertBefore(img, firstParagraph.firstChild);
+                            }
+                        }
+                    }
+                }
+            } catch (error) {
+                modalBody.innerHTML = `<div class="error-msg"><h2>Error</h2><p>Could not load the story file (${filePath}). Have you created it yet?</p></div>`;
+                console.error(error);
+            }
+        }
+
+        // Initialize
+        loadStories();
+    </script>
+</body>
+
+</html>
