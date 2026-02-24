@@ -1,0 +1,34 @@
+[
+    {
+        "id": "the-prompt",
+        "title": "claire system prompt draft 3",
+        "excerpt": "Basic instructions for an artificial companion",
+        "tag": "Fiction",
+        "file": "the-prompt.md",
+        "date": "2026-02-23"
+    },
+    {
+        "id": "white-room",
+        "title": "The White Room",
+        "excerpt": "In the future, a man completes tasks",
+        "tag": "Sci-Fi",
+        "file": "white-room.md",
+        "date": "2026-02-13"
+    },
+    {
+        "id": "anthropological-synaesthesia",
+        "title": "Anthropological Synaesthesia",
+        "excerpt": "Descriptions of unseen colors",
+        "tag": "Experimental",
+        "file": "anthropological-synaesthesia.md",
+        "date": "2026-02-13"
+    },
+    {
+        "id": "the-chain",
+        "title": "The Chain",
+        "excerpt": "A prescient dog tries to stop a bad thing",
+        "tag": "Fiction",
+        "file": "the-chain.md",
+        "date": "2026-02-23"
+    }
+]
