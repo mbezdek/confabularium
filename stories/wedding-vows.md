@@ -1,16 +1,29 @@
 # Wedding Vows
 
 I, [YOUR FULL LEGAL NAME, READ SLOWLY AS IF HEARING IT FOR THE FIRST TIME], take you, [PARTNER'S NAME, MISPRONOUNCED SLIGHTLY], to be my lawfully wedded [TRADITIONAL TITLE YOU BOTH AGREED ON AND THEN ARGUED ABOUT AGAIN THIS MORNING].
+
 I promise to love you in sickness and in health, in good times and in bad, in [SPECIFIC SITUATION FROM THE FIGHT WE HAD IN THE CAR ON THE WAY HERE] and in whatever comes after that, which I am told will pass.
+
 I vow to always be honest with you, except about [THE THING YOU BOUGHT ONLINE AT 1 A.M.], and to create a home where you feel safe, cherished, and never blamed for [WHAT HAPPENED TO THE CAST IRON PAN].
+
 I will support your dreams, including your dream of [BUSINESS IDEA YOU DESCRIBED ONCE AND CLEARLY HAVEN'T LET GO OF], which I believe in, mostly. I will hold your hand during difficult moments, including [SPECIFIC MARVEL FILM YOU BOTH KNOW YOU'LL HAVE TO SIT THROUGH], and I will not check my phone, or I will check my phone only once, or I will try.
+
 When you are [EMOTION YOU MAKE A SPECIFIC FACE FOR], I will ask what's wrong even knowing you will say "nothing." I will ask again. I will ask a third time. I will accept "nothing" on the fourth time, having demonstrated, I feel, sufficient effort.
+
 I promise to remember [ANNIVERSARY, BIRTHDAY, OR RECURRING OBLIGATION YOU HAVE FORGOTTEN BEFORE — BE SPECIFIC], and if I forget, I promise to have already prepared [BRAND OF CHOCOLATE YOU KNOW FOR A FACT FIXES THIS].
+
 I will not bring up [THAT THING YOUR MOTHER SAID IN 2019] unless the conversation makes it genuinely unavoidable, which will happen more than either of us expects.
+
 I accept that you will always be cold when I am hot, and I accept this as one of the central philosophical tensions of our life together, alongside your belief that [POSITION ON A TRIVIAL DOMESTIC MATTER THAT YOU HOLD WITH DISTURBING CONVICTION]. I do not share this belief. I respect it. These are different things, and I have learned to treat them as the same thing, which is, I think, what love is.
+
 I promise that when we watch [PRESTIGE TELEVISION SERIES WITH A MORALLY COMPLICATED PROTAGONIST], I will not tell you what happens, even though I watched ahead, and I watched significantly ahead, and I am not proud of this.
+
 I will be the person who [UNPLEASANT HOUSEHOLD TASK THAT HAS NEVER ONCE BEEN CONTESTED BETWEEN YOU] without being asked, which is to say, I will do it when asked, but I will do it without making a face.
+
 In the darkest moments, when the world feels like [DESCRIBE THE SPECIFIC INTERIOR OF A SPIRIT AIRLINES FLIGHT], I will find you in it. I will sit next to you. I will share the [SNACK YOU BOTH KNOW IS YOURS BUT YOU SHARE ANYWAY].
+
 And when we are very old, and the things that once seemed urgent have become [WORD YOUR GRANDPARENT USED FOR SOMETHING THAT NO LONGER EXISTS], I want to be the one who is still there, still asking what's wrong, still being told nothing.
+
 I love you more than [THING YOU LOVED BEFORE YOU MET THEM — BE EMBARRASSINGLY SPECIFIC]. More than [IT AGAIN, BUT WORSE]. I love you in a way that makes me understand why people used to write letters, and why they stopped.
+
 With this ring, I thee wed. Please don't lose it like the last one. I know that wasn't your fault. [IT WAS A LITTLE YOUR FAULT.]
