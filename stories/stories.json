@@ -1,9 +1,17 @@
 [
     {
+        "id": "wedding-vows",
+        "title": "Wedding Vows",
+        "excerpt": "Customizable vows for the perfect wedding",
+        "tag": "Humor",
+        "file": "wedding-vows.md",
+        "date": "2026-02-27"
+    },
+    {
         "id": "the-prompt",
         "title": "claire system prompt draft 3",
         "excerpt": "Basic instructions for an artificial companion",
-        "tag": "Fiction",
+        "tag": "Humor",
         "file": "the-prompt.md",
         "date": "2026-02-23"
     },
