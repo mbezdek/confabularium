@@ -75,7 +75,7 @@ I couldn't go further than that and even if I had found the words I'm not sure s
 
 **April 7**
 
-Bad week. How did I let this burden grow to be so heavy? There was no moment of decision. No trade I consciously made. Without ceremony, the years went by and here I am, heavy with something I cannot name, in a body that all the metrics say is fine.
+Bad week. How did I let this burden grow so much? There was no moment of decision. No trade I consciously made. Without ceremony, the years went by and here I am, heavy with something I cannot name, in a body that all the metrics say is fine.
 
 ---
 
