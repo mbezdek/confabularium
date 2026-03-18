@@ -6,7 +6,7 @@
 
 I haven't written by hand in so long that my fingers cramped after the first paragraph. I kept stopping to correct words that weren't wrong, just imprecise — a habit I didn't know I still had. It took forty minutes to write one page.
 
-I'm starting this because I need something the machine can't finish for me. I'm not sure what that is yet. Maybe just the record. Maybe just the proof that I was here, thinking these things, in my own approximate words.
+I'm starting this because I need something the machine can't finish for me. I'm not sure what that is yet. Maybe just the record. Maybe just the proof that I was here, thinking these things, in my own approximate words. Most of it I crossed out. This is what I kept.
 
 ---
 
@@ -44,7 +44,7 @@ I've been thinking about that *yeah* all day.
 
 **March 28**
 
-I tried again to tell Marcus about the feeling. Not the first time.
+I tried again to tell Ken about the feeling. Not the first time.
 
 He listened the way he does, with his whole face. I love him for it. I said some things that didn't quite land, and then I stopped, because the real thing was further down than I could get to, and I was tired.
 
@@ -87,7 +87,7 @@ She called when she got it. She said she could tell I'd written it myself. I ask
 
 **April 24**
 
-Mira turned seventeen. We made dinner together — she wanted to, not me, she proposed it — and it took three times as long as it needed to and the risotto was gluey and Marcus said it was perfect with such sincerity that I believed him.
+Mira turned seventeen. We made dinner together — she wanted to, not me, she proposed it — and it took three times as long as it needed to and the risotto was gluey and Ken said it was perfect with such sincerity that I believed him.
 
 Mira was laughing about it at the table. Telling Theo about the first attempt, which we'd thrown out. And I looked at her face — the way it moves when she's happy, still half a child, still my particular child — and the weight was there, the way it always is. But it was sharing space with something else. Something that had no name either but was not pulling me down.
 
