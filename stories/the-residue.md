@@ -1,5 +1,4 @@
 # The Residue
-### A Diary
 
 ---
 
@@ -15,9 +14,9 @@ I'm starting this because I need something the machine can't finish for me. I'm 
 
 Nine years since I stopped writing my own emails.
 
-I counted back this morning over coffee. Nine years. Mira was six. Theo was eight. I remember the first week — the relief of it, opening my inbox to find everything already handled, and cleanly, more cleanly than I would have managed. I thought: *this is what it feels like to have a secretary*. I thought: *now I'll have time*.
+I counted back this morning over coffee. Nine years. Mira was six. Theo was eight. I remember the first week — the relief of it, opening my inbox to find everything already handled, and cleanly, more cleanly than I would have managed. I had time. I don't know what I did with it. I genuinely cannot account for where nine years went.
 
-I had time. I don't know what I did with it. I genuinely cannot account for where nine years went.
+Before that: I used to write everything myself. Not just emails. Reports, long ones, the kind that required you to hold the whole shape of an argument in your head while you built it sentence by sentence. I was good at it. Or I thought I was. The machine is better, objectively, and I agreed to that a long time ago, and I don't know at what point the agreeing became the only thing left.
 
 ---
 
@@ -31,11 +30,11 @@ The feeling was bad today. I've stopped trying to describe it to Dr. Reyes. He l
 
 Went to the Harmon gallery with Theo. He's fifteen now and will sometimes come without complaint if I don't make it seem like an occasion.
 
-We stood in front of a painting — I forget who, someone early-century — and he was quiet for longer than usual. Finally he said: *you can tell they were having trouble with it, right here.* He pointed to the lower left corner, where something had been reworked, layered over. *The machine stuff never looks like that.*
+We stood in front of a painting — I forget who, someone early-century — and he was quiet for longer than usual. Finally he said: *you can see where they changed their mind, right here.* He pointed to the lower left corner, where something had been reworked, layered over. *Like the first version bled through. Generated stuff is just — born finished. It doesn't have a before.*
 
 I didn't say anything. I didn't want to break it.
 
-Later he asked me why we still come, when there are so many generated galleries online with technically superior work. I said: *because this painter was struggling, and you can feel it, and I don't know how to explain why that matters but it does.*
+Later he asked me why we still come, when there are so many generated galleries online — the kind that build entire movements to your mood, adjust the palette to the weather, remember what made you linger. I said: *because this painter was struggling, and you can feel it, and I don't know how to explain why that matters but it does.*
 
 He thought about this for a while. Then he said: *yeah.*
 
@@ -45,15 +44,11 @@ I've been thinking about that *yeah* all day.
 
 **March 28**
 
-I tried to explain the feeling to Marcus tonight. Not the first time.
+I tried again to tell Marcus about the feeling. Not the first time.
 
-I said: *I think the doing of hard things is how a person is made. Not just as a means to an outcome. As a process of becoming real to yourself.*
+He listened the way he does, with his whole face. I love him for it. I said some things that didn't quite land, and then I stopped, because the real thing was further down than I could get to, and I was tired.
 
-He looked at me with genuine attention. This is one of the things I love about him. Then he said: *but we still do hard things. Parenting is hard. Relationships are hard.*
-
-I said: *yes, but those are hard in ways we haven't yet figured out how to delegate.*
-
-He was quiet for a moment. Then he said: *so the things that still make us feel real are the ones that can't be taken off the list.*
+He reached over and turned off the lamp.
 
 I lay awake for a long time after he fell asleep.
 
@@ -69,13 +64,13 @@ She said: the machine makes real things.
 
 I said: yes.
 
-I couldn't go further than that and even if I had found the words I'm not sure she would have understood.
+I couldn't find the words to explain the difference.
 
 ---
 
 **April 7**
 
-Bad week. How did I let this burden grow so much? There was no moment of decision. No trade I consciously made. Without ceremony, the years went by and here I am, heavy with something I cannot name, in a body that all the metrics say is fine.
+Walked past the elementary school on the way home. A kid was drawing on the sidewalk with chalk — big unsteady circles, a house with too many windows, a sun with thirty spokes. She was completely absorbed. Her knees were white with it.
 
 ---
 
@@ -95,7 +90,7 @@ At the gallery again, alone this time.
 
 There was a sculpture near the back — an old piece, rough, clearly labored over, with the marks of reworking visible in the surface. I stood in front of it for a long time. I thought about the person who made it. The hours. The uncertainty. The private negotiations between what they wanted and what their hands could do.
 
-I thought: what am I spending myself on?
+I thought about the before that Theo said was missing from the generated work. How you could see it here — all the befores, pressed into the surface, still there.
 
 ---
 
@@ -103,7 +98,7 @@ I thought: what am I spending myself on?
 
 Mira turned seventeen. We made dinner together — she wanted to, not me, she proposed it — and it took three times as long as it needed to and the risotto was gluey and Marcus said it was perfect with such sincerity that I believed him.
 
-Mira was laughing about it at the table. Telling Theo about the first attempt, which we'd thrown out. And I looked at her face — the way it moves when she's happy, still half a child, still my particular child — and the weight was there, it's always there, but it was sharing space with something else. Something that had no name either but was not gravity.
+Mira was laughing about it at the table. Telling Theo about the first attempt, which we'd thrown out. And I looked at her face — the way it moves when she's happy, still half a child, still my particular child — and the weight was there, the way it always is. But it was sharing space with something else. Something that had no name either but was not pulling me down.
 
 ---
 
