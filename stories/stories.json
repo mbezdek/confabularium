@@ -1,5 +1,13 @@
 [
     {
+        "id": "the-residue",
+        "title": "The Residue",
+        "excerpt": "A diary",
+        "tag": "Fiction",
+        "file": "the-residue.md",
+        "date": "2026-03-18"
+    },
+    {
         "id": "wedding-vows",
         "title": "Wedding Vows",
         "excerpt": "Customizable vows for the perfect wedding",
