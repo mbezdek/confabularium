@@ -30,11 +30,11 @@ The feeling was bad today. I've stopped trying to describe it to Dr. Reyes. He l
 
 Went to the Harmon gallery with Theo. He's fifteen now and will sometimes come without complaint if I don't make it seem like an occasion.
 
-We stood in front of a painting — I forget who, someone early-century — and he was quiet for longer than usual. Finally he said: *you can see where they changed their mind, right here.* He pointed to the lower left corner, where something had been reworked, layered over. *Like the first version bled through. Generated stuff is just — born finished. It doesn't have a before.*
+We stood in front of a painting — I forget who, someone early-century — and he was quiet for longer than usual. Finally he said: *you can see where they changed their mind, right here.* He pointed to the lower left corner, where something had been reworked, layered over. *The machine stuff never looks like that.*
 
 I didn't say anything. I didn't want to break it.
 
-Later he asked me why we still come, when there are so many generated galleries online — the kind that build entire movements to your mood, adjust the palette to the weather, remember what made you linger. I said: *because this painter was struggling, and you can feel it, and I don't know how to explain why that matters but it does.*
+Later he asked me why we still come, when there are so many generated galleries online with technically superior work. I said: *because this painter was struggling, and you can feel it, and I don't know how to explain why that matters but it does.*
 
 He thought about this for a while. Then he said: *yeah.*
 
@@ -64,7 +64,8 @@ She said: the machine makes real things.
 
 I said: yes.
 
-I couldn't find the words to explain the difference.
+She waited. I was trying to find the—
+Theo called from the other room. The moment closed. I don't know what I would have said.
 
 ---
 
@@ -81,16 +82,6 @@ I wrote my mother a letter for her birthday. By hand. It took most of the aftern
 I cried a little at the kitchen table and I'm not entirely sure why.
 
 She called when she got it. She said she could tell I'd written it myself. I asked her how. She was quiet for a moment and then she said: *because of the crossed-out parts.*
-
----
-
-**April 19**
-
-At the gallery again, alone this time.
-
-There was a sculpture near the back — an old piece, rough, clearly labored over, with the marks of reworking visible in the surface. I stood in front of it for a long time. I thought about the person who made it. The hours. The uncertainty. The private negotiations between what they wanted and what their hands could do.
-
-I thought about the before that Theo said was missing from the generated work. How you could see it here — all the befores, pressed into the surface, still there.
 
 ---
 
